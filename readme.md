@@ -1,6 +1,6 @@
 # WebX
-![pic] (https://github.com/TSMaitry/WebX/raw/img/webx.py)
-Web Hacking Tools
+![] (https://github.com/TSMaitry/WebX/raw/img/webx.py)
+
 
 <!-- --------------- -->
 
