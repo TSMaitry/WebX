@@ -1,5 +1,5 @@
 # WebX
-![] (https://github.com/TSMaitry/WebX/raw/img/webx.py)
+
 
 
 <!-- --------------- -->
